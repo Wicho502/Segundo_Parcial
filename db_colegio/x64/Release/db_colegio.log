@@ -1,0 +1,5 @@
+﻿  Estudiante.cpp
+  Persona.cpp
+  db_colegio.cpp
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Segundo Parcial\db_colegio\db_colegio.cpp(56,126): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'Estudiante'
+C:\Users\ltaze\Documents\UMG\TERCER SEMESTRE\Programacion I 14 a 16\Segundo Parcial\db_colegio\db_colegio.cpp(56,126): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
